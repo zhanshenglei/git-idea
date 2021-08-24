@@ -12,6 +12,7 @@ public class gittest {
         int i=0;
         i+=10;
     }
+    //添加詹生磊注释
     public void test(){
         String ss="zaiganma";
     }
