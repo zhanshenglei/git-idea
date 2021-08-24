@@ -15,4 +15,7 @@ public class gittest {
     public void test(){
         String ss="zaiganma";
     }
+    public void hello(){
+        System.out.println("你好呀 git");
+    }
 }
